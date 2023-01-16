@@ -6,3 +6,5 @@
 Github下载地址：https://github.com/PhysicsInFog/End-Poem/releases/download/Release/End.Poem.zip
 
 蓝奏云下载地址：https://physicsinfog.lanzoue.com/iw0LK0j5lxuj
+
+重构网站：https://physicsinfog.github.io/EndPoem
